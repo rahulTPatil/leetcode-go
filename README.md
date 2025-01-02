@@ -9,7 +9,6 @@ Solving Leetcode problems while learning Go!
 - 20-Valid Parenthesis - E
 - 66-Plus One - E
 - 67-Add Binary - E
-- 268-Missing Number - E
 
 ### Completed
 
@@ -18,3 +17,4 @@ Solving Leetcode problems while learning Go!
 - 35-Search Insert Position - E
 - 58-Length of Last word - E
 - 69-Sqrt(x) - E
+- 268-Missing Number - E
