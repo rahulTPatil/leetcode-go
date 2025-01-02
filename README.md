@@ -1,6 +1,6 @@
 # Leetcode in Go
 
-Solving Leetcode problems while learning Go!
+Solving Leetcode problems while learning Go! YEET!
 
 ## Status
 
